@@ -1,0 +1,15 @@
+{
+  "name": "lower-case",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "lower-case.js",
+  "directories": {
+    "lower-case": "lower-case",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
